@@ -1,39 +1,75 @@
 .contenedor{
     width: 100%;
-    height: 1200px;
-    background-color: rgb(139, 112, 212);
+    height: 1400px;
+background-color: rgb(255, 255, 255);
 }
 .encabezado{
-    width: 100%;
-    height: 150px;
-    background-color: #14bdf0;
-    text-align: center;
-    font-size: 35px;
+width: 100%;
+height: 150px;
+background-color: #517470;
+font-size: 45px;
+text-align: center;
+color: white;
+font-family: cursive;
 }
 .menu{
-    width: 100%;
-    height: 50px;
-    background-color: rgb(16, 90, 119);
+width: 100%;
+height: 80px;
+background-color: #bdcfc9;
+display:flex;
 }
+.inicio{
+width: 80px;
+height: 75px;
+background-color: #8d9e6f;
+margin: 2px;
+}
+
+.sociales{
+width: 80px;
+height: 75px;
+background-color: #8d9e6f;
+margin: 2px;
+}
+.ingles{
+width: 80px;
+height: 75px;
+background-color: #8d9e6f;
+margin: 2px;
+
+}
+
 .contenedor2{
-    width: 100%;
-    height: 1000px;
-    background-color: rgb(92, 72, 226);
-    display: flex;
+width: 100%;
+height: 1300px;
+background-color: rgb(106, 29, 179);
+
+display: flex;
 }
 .izquierda{
-    width: 50%;
-    height: 1000px;
-    background-color: rgb(100, 195, 250);
-    font-size: 30px;
+width: 25%;
+height: 1600px;
+background-color: rgb(56, 21, 88);
+background-image: url("letras.jfif");
+background-image: url("descarga\ \(1\).jfif");
 }
 .centro{
-    width: 60%;
-    height: 1000px;
-    background-color: rgb(67, 226, 178);
+width: 55%;
+height: 1600px;
+background-color: rgb(98, 73, 121);
+font-size: 25px;
+text-align: justify;
+background-color: #7E998D;
+font-family: Georgia, 'Times New Roman', Times, serif;
 }
 .derecha{
-    width: 50%;
-    height: 1000px;
-    background-color: rgb(100, 195, 250);
+width: 25%;
+height: 1450px;
+background-color: blueviolet;
+font-size: 35px;
+text-align: center;
+color: rgb(255, 255, 255);
+font-family: cursive;
+background-image: url("letras.jfif");
+background-image: url("descarga\ \(1\).jfif");
 }
