@@ -64,14 +64,14 @@ display: flex;
 }
 .izquierda{
 width: 25%;
-height: 1600px;
+height: 2600px;
 background-color: rgb(56, 21, 88);
 background-image: url("letras.jfif");
 background-image: url("descarga\ \(1\).jfif");
 }
 .centro{
 width: 55%;
-height: 1600px;
+height: 2600px;
 background-color: rgb(98, 73, 121);
 font-size: 15px;
 background-color: #7E998D;
@@ -81,7 +81,7 @@ text-align: left;
 
 .derecha{
 width: 25%;
-height: 1450px;
+height: 2600px;
 background-color: blueviolet;
 font-size: 35px;
 text-align: center;
