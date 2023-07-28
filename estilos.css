@@ -1,65 +1,209 @@
 *{
 
-    padding: 0px;
+ padding: 0px;
+ margin: 0px;
+}
     
-    margin: 0px;
+body{
+background-image: url("books-g84259ff87_1280.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+}
     
-    }
+.fondoingles2{
+background-image: url("estatua2.jpeg");
+background-repeat: no-repeat;
+background-size: 2000px ;
+}
     
+.fondobiologia2{
+background-image: url("oceano.jpeg");
+background-repeat: no-repeat;
+background-size: 3000px;
+}
+
+.fondomatematicas2{
+background-image: url("muchachas.jpeg");
+background-repeat: no-repeat;
+background-size: cover;
+}
+        
+.fondosociales2{
+background-image: url("nocheestrellada.jpeg");
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+.fondotecnologia2{
+background-image: url("galaxia.jpeg");
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+.fondorelijion2{
+background-image: url("diosito.jpeg");
+background-repeat: no-repeat;
+background-size: cover;
+}
+   
+                    
+                    
+.img{
+position: relative;
+width: 190px;
+height: 190px;
+border-radius: 10px;
+background-repeat: no-repeat;
+left: 180px;
+background-image: url("medellin.jpe");
+}
     
+.contenedor{
+background: image();
+height: 230px;
+}
     
-    
-    body{
-    
-    background-image: url("beautiful-nature-g462e68833_1280.jpg.jpg");
-    
-    background-repeat: no-repeat;
-    
-    }
-    
-    
-    
-    .img{
-    
+.texto{
+font-size: 40px;
+text-align: justify;
+color: brown;
+}
+
+.contenido{
+height: 280px;
+width: 100%;
+position: absolute;
+top: 410px;
+}
+        
+         
+
+.img{
     position: relative;
-    
-     
-    
     width: 190px;
-    
     height: 190px;
-    
     border-radius: 10px;
-    
     background-repeat: no-repeat;
-    
-     
-    
     left: 180px;
-    
-    background-image: url("heart-g8ac1554a2_1280.jpg.jpg");
-    
-    }
-    
+    background-image: url("");}
+        
     .contenedor{
-    
-     background: image();
-    
-    height: 230px;
-    
-     
-    
-    }
-    
+    background: image();
+    height: 230px;}
+        
     .texto{
-    
     font-size: 40px;
-    
     text-align: justify;
+    color: brown;}
     
-    color: brown;
+    .contenido{
+    height: 280px;
+    width: 100%;
+    position: absolute;
+    top: 410px;}
     
-     
-    
-    }
-    
+    .imagentecnologia2{
+    background-repeat: no-repeat;
+    float:left;
+    height: 200px;
+    width: 260px;
+    margin-left: 5px;
+    margin-right:5px;
+    background-image: url("carros.jpg");}
+         
+    .textotecnologia2{
+    text-align: justify;
+    color: rgb(255, 255, 255);
+    font-size: 20px;}
+
+
+
+
+    .img{
+        position: relative;
+        width: 190px;
+        height: 220px;
+        border-radius: 10px;
+        background-repeat: repeat;
+        left: 180px;
+        background-image: url("medellin.jpeg");}
+            
+        .contenedor{
+        background: image();
+        height: 1400px;}
+            
+        .texto{
+        font-size: 35px;
+        text-align: justify;
+        color: brown;}
+        
+        .contenido{
+        height: 1400px;
+        width: 100%;
+        position: absolute;
+        top: 410px;}
+             
+        .textoingles{
+        text-align: justify;
+        color: azure;
+        font-size: 20px;}    
+
+
+
+        .img{
+            position: relative;
+            width: 190px;
+            height: 280px;
+            border-radius: 10px;
+            background-repeat: no-repeat;
+            left: 180px;
+            background-image: url("estatua.jpeg");}
+                
+            .contenedor{
+            background: image();
+            height: 230px;}
+                
+            .texto{
+            font-size: 40px;
+            text-align: justify;
+            color: brown;}
+            
+            .contenido{
+            height: 280px;
+            width: 100%;
+            position: absolute;
+            top: 410px;}
+            
+            .textomate{
+            text-align: center;
+            color: rgb(0, 5, 5);
+            font-size: 20px;}
+
+            .img{
+                position: relative;
+                width: 190px;
+                height: 290px;
+                border-radius: 10px;
+                background-repeat: no-repeat;
+                left: 180px;
+                background-image: url("oceano.jpeg");}
+                    
+                .contenedor{
+                background: image();
+                height: 230px;}
+                    
+                .texto{
+                font-size: 40px;
+                text-align: justify;
+                color: brown;}
+                
+                .contenido{
+                height: 280px;
+                width: 100%;
+                position: absolute;
+                top: 410px;}
+                
+                .textobiologia{
+                text-align: left;
+                color: rgb(0, 5, 5);
+                font-size: 30px;}
